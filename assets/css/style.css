@@ -1110,7 +1110,8 @@ section {
 }
 
 .team .member .member-info {
-  padding-left: 30px;
+   margin-top: 10px;
+  margin-bottom: 0px;
 }
 
 .team .member h4 {
